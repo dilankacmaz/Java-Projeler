@@ -1,0 +1,25 @@
+Ã…Â�ehirler ve KodlarÃ„Â±:
+izmir 1
+ankara 2
+istanbul 3
+bartın 4
+antalya 5
+Graf:
+	1	2	3	4	5
+1	0	600	500	0	450
+2	600	0	520	300	470
+3	500	520	0	430	0
+4	0	300	430	0	0
+5	450	470	0	0	0
+KiÃ…Å¸iler ve BaÃ…Å¸langÃ„Â±ÃƒÂ§ NoktalarÃ„Â±:
+melike antalya
+mustafa bartın
+mert ankara
+mehmet izmir
+ahmet ankara
+KiÃ…Å¸ilerin Seyahat NoktalarÃ„Â± ve HÃ„Â±zlarÃ„Â±:
+melike antalya-ankara-bartın-istanbul 2 km/dk
+mustafa bartın-ankara-antalya 2,5 km/dk
+mert izmir-antalya-ankara-istanbul 2,3 km/dk
+mehmet ankara-izmir-istanbul 2,1 km/dk
+ahmet ankara-izmir-istanbul 2,1 km/dk
